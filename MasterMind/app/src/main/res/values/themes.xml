@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+	<!-- Color de fondo del Splash Screen -->
+        <item name="android:windowSplashScreenBackground">#FFA500</item> <!-- naranja -->
+    </style>
+
+</resources>
